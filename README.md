@@ -17,5 +17,8 @@ For Linux :
 
   + Linux : Open terminal in Program folder and run 'python2 TF.py'
 
+# Farming
+  + You can edit, delete, change troops farms from farms_SRVER.txt
+  + SERVER means the server you logged in
 
 Any question ? Vists me at https://twitter.com/i127001
