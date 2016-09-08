@@ -1,14 +1,14 @@
 # Travian-Farmer
 Travian Farmer v1.0 By : https://twitter.com/i127001 [Arabian Coder]
 
-# require
+# Require
 For Window :
   + You need to Downoad Python 2.7 from https://python.org
   
 For Linux :
   + You need to Python2
   
-# configuration
+# Configuration
   + You need to Setting up 'config_file.py' in 'conf' folder
 
 
