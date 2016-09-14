@@ -24,7 +24,7 @@ class Searcher(login.Login):
                 page_url = "http://" + self.server + "/statistiken.php?id=2&idSub=0&page=" + str(from_page)  # noqa
                 row = 1
                 sleep(2)
-                while(row <= 20):
+                while(row < 20):
                     # get current villages page
                     page_source = sess.get(page_url, headers=self.h, verify=False, timeout=self.timeout)
                     bs = BS(page_source.content, 'html.parser')
